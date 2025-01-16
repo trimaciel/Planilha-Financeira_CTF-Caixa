@@ -18,9 +18,7 @@ Como organizar sua vida financeira com planilhas inteligentes e IA
 ## $ Link da planilha 
 - [Planilha OneDrive] (https://onedrive.live.com/personal/d285423f612fe1e7/_layouts/15/doc.aspx?resid=3662cf73-750b-4664-a7cd-1a155016c0c7&cid=d285423f612fe1e7&ct=1737043887001&wdOrigin=OFFICECOM-WEB.START.EDGEWORTH&wdPreviousSessionSrc=HarmonyWeb&wdPreviousSession=1a1ec2db-bc4e-47a5-9d4e-a3aba5e20c71)
 
-##Aqui está a assinatura atualizada:  
 
----
 
 **Atenciosamente,**  
 🍀 **Tri Maciel**  
