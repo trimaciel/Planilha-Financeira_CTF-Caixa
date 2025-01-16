@@ -2,7 +2,8 @@
 Como organizar sua vida financeira com planilhas inteligentes e IA
 
  > ℹ️ **NOTE 1:** Projeto com o objetivo de gerar uma planilha inteligente para controle financeiro.
->  ℹ️ **NOTE 2:** A planilha inteligente foi elaborada na versão online do Excel(Microsoft 365), o que impossibilitou o uso de alguns recursos que não estão disponíveis nesta versão, em especial os recursos visuais e configurações personalizadas.  . 
+
+ > ℹ️ **NOTE 2:** A planilha inteligente foi elaborada na versão online do Excel(Microsoft 365), o que impossibilitou o uso de alguns recursos que não estão disponíveis nesta versão, em especial os recursos visuais e configurações personalizadas.  . 
 
 
 ## 💻 Tecnologias utilizadas no projeto
