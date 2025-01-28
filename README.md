@@ -24,6 +24,6 @@ Como organizar sua vida financeira com planilhas inteligentes e IA
 **Atenciosamente,**  
 🍀 **Tri Maciel**  
 📫 (trimaciel@hotmail.com / trimaciel.souza@gmail.com)  
-💻 (https://www.linkedin.com/in/patriciammaciel/)
+💻 (https://www.linkedin.com/in/patriciammaciel/)   
 ✨ *Em frente!*  
 
